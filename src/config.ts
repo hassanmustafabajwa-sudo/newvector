@@ -1,0 +1,1 @@
+export const CONTACT={whatsapp:import.meta.env.VITE_WHATSAPP as string|undefined,email:import.meta.env.VITE_EMAIL as string|undefined,socials:[{name:'LinkedIn',url:import.meta.env.VITE_LINKEDIN as string|undefined},{name:'Instagram',url:import.meta.env.VITE_INSTAGRAM as string|undefined}]}
